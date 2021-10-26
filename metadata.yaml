@@ -1,0 +1,6 @@
+homepage: "https://ninjachat.com"
+documentation: ""
+versions:
+  # Latest version
+  - sha: 4d869655f32c4d3eeccea2a429b6c94ff9f96f24
+    changeNotes: Created Template file.
