@@ -1,7 +1,7 @@
 # Ninjachat
 [Get Started](https://infinity.500apps.com/ninjachat) with with [Ninjachat](https://ninjachat.com)
 
-A live chat application with complex features but with a high ease of use quotient. Ninjachat has all the features one needs to increase and improve customer engagement. Personalise the chat widgets, connect with visitors and respond to them in real time. Ninjachat helps boost customer retention with no glitches thereby providing a good user experience.
+A live chat application with complex features and also with a high ease of use quotient. Ninjachat has all the features one needs to increase and improve customer engagement. Personalise the chat widgets, connect with visitors and respond to them in real time. Ninjachat helps boost customer retention with no glitches thereby providing a good user experience.
 Create departments and install the script generated in your websites to run the Ninjachat widget. Generate leads, resolve customer complaints, address issues, etc with easy-to-use Ninjachat application. As the customer traction of your website grows, you can add more agents to the application, where each agent is equipped with handling 25 simultaneous live chats.You can also restrict the number of live chats an agent can do, there by giving time for new agents to get trained before scaling up the operations. Customise user experience tracking live chats and by building custom short cuts as well.
 
 - [Get Started](https://infinity.500apps.com/ninjachat) with easy to use and configurable live chat application which can be configured not only to websites but also to social media handles like LinkedIn , Facebook , etc .[Ninjachat](https://ninjachat.com)
