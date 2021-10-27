@@ -31,11 +31,11 @@ Once you're back in GTM's home, click on the Publish button to apply the changes
     ### Support 
       Contact our support team through "Live Chat" or "Help us improve" options through our application.
 
-![alt text](https://infinity.500apps.com/img/ninjachat/GTM-Image-1.png)
+![alt text](https://infinity.500apps.com/img/ninjachat/gtm-image-1.png)
 
-![alt text](https://infinity.500apps.com/img/ninjchat/GTM-Image-2.png)
+![alt text](https://infinity.500apps.com/img/ninjchat/gtm-image-2.png)
 
-![alt text](https://infinity.500apps.com/img/ninjachat/GTM-Image-3.png)
+![alt text](https://infinity.500apps.com/img/ninjachat/gtm-image-3.png)
 
 Alternatively, you can contact us through mail at feedback@500apps.com
 Report a bug, file a feature request or send a pull request in the issue tracker.
