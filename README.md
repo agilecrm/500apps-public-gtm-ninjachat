@@ -34,7 +34,7 @@ Adding the Ninjachat tag to your website once you're logged in to your account w
 
 4. After the template is added to your workspace, the tag is automatically added to your tag configuration.
 
-5. Find the randomly generated Ninjachat key for the department in the share script slide bar, copy and place the key in the field provided in the Tag Configuration.
+5. Find the API key for the department in the share script slide bar, copy and place the key in the field provided in the Tag Configuration.
 
 6. Then navigate to “Triggering” and select “All Pages” in the provided list.
 
