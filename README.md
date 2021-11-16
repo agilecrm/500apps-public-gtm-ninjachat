@@ -1,4 +1,4 @@
-# Ninjachat by 500apps
+# 500apps NinjaChat
 
 A live chat application with complex features and also with a high ease of use quotient. Ninjachat has all the features one needs to increase and improve customer engagement. Personalise the chat widgets, connect with visitors and respond to them in real time.
 
