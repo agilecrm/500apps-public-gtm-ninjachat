@@ -2,8 +2,8 @@ homepage: "https://ninjachat.com"
 documentation: ""
 versions:
   # Latest version
+  - sha: 46045c17e06a2caf3db7910cc700ae9d16e32425
+    changeNotes: Modified displayName.
+  # Older version
   - sha: 4d08ce6f1e113e9aadebb1feb2e2af8b8c838c3e
     changeNotes: Updated app name.
-  # Older version
-  - sha: 4d869655f32c4d3eeccea2a429b6c94ff9f96f24
-    changeNotes: Created Template file.
