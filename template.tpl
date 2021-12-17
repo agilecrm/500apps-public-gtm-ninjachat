@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "500apps NinjaChat",
+  "displayName": "500apps - NinjaChat",
   "categories": ["CHAT","SUPPORT"],
   "brand": {
     "id": "brand_dummy",
